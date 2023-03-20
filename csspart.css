@@ -1,0 +1,211 @@
+.bk{
+    background-image: url("https://media.istockphoto.com/id/1139678803/vector/horizontal-vector-illustration-of-an-empty-sky-blue-coloured-grungy-textured-background.jpg?s=612x612&w=0&k=20&c=tFTrwphz8pXtrmJGrEFBAnk9anQmRPHp3C8a3kQql7M=");
+  }
+   .img-responsive{
+      
+    }
+
+.header{
+      background:#3b5998;
+      width:100%;
+      height: 85px;
+  }
+  .logo{
+    width: 50%;
+    padding-top: 32px;
+    float: centre;
+
+
+}
+  .green-text{
+      font-family: Cinzel;
+      color: rgb(192, 139, 6);
+        }
+  .form {
+          border: 3px solid #f1f1f1;
+        }
+        
+        /* Full-width inputs */
+        input[type=text], input[type=password] {
+          width: 100%;
+          padding: 12px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          box-sizing: border-box;
+        }
+        
+        /* Set a style for all buttons */
+  .button {
+          background-color: #04AA6D;
+          color: white;
+          padding: 14px 20px;
+          margin: 8px 0;
+          border: none;
+          cursor: pointer;
+          width: 100%;
+        }
+        
+        /* Add a hover effect for buttons */
+        button:hover {
+          opacity: 0.8;
+        }
+        
+        /* Extra style for the cancel button (red) */
+        .cancelbtn {
+          width: auto;
+          padding: 10px 18px;
+          background-color: #f44336;
+        }
+        
+        /* Center the avatar image inside this container */
+        .imgcontainer {
+          text-align: center;
+          margin: 24px 0 12px 0;
+        }
+        
+        /* Avatar image */
+        img.avatar {
+          width: 40%;
+          border-radius: 50%;
+        }
+        
+        /* Add padding to containers */
+        .container {
+          padding: 16px;
+        }
+        
+        /* The "Forgot password" text */
+        span.psw {
+          float: right;
+          padding-top: 16px;
+        }
+        
+        /* Change styles for span and cancel button on extra small screens */
+        @media screen and (max-width: 300px) {
+          span.psw {
+            display: block;
+            float: none;
+          }
+          .cancelbtn {
+            width: 100%;
+          }
+        }
+    .red-text {
+      color: red;
+      font-family:Anton;
+      text-align:justify;
+    }
+  .pstyle
+  {
+    font-size:28px;
+    }
+  
+  h2 {
+      font-family: Lobster, Monospace;
+    }
+  
+  .bl-text{
+    font-family:LibreBaskerville;
+    color:black;
+    font-size:20px;
+    text-align:justify;
+  }
+  .bul-text{
+    font-family:Tangerine;
+    color:black;
+    font-size=30px;
+    text-align:justify;
+  }
+  .ls-text{
+    list-style-image: url("http://bit.ly/2ApzHuw");
+    font-size:20px;
+    font-family="Lobster"
+    text-align="justify" 
+    }
+  .correctext{
+    list-style-image: url("data:image/jpeg;base64,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");
+    font-size: 20px;
+    font-family="Lobster"
+    text-align="justify"
+  }
+  .d-text{
+    font-family:Lobster;
+    font-size:20px;
+    text-align:justify;
+  }
+  
+  .topnav {
+      background-color: #333;
+      overflow: hidden;
+  }
+  
+  .topnav a {
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+  }
+  
+  .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+  }
+  
+  .topnav .icon {
+      display: none;
+  }
+  @media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+  img:hover {
+      -webkit-transform: scaleX(-1);
+      transform: scaleX(-1);
+  }
+  
+  .target{
+     font-family: Cinzel;
+    font-size:14px;
+      color: black;
+    text-align=justify;
+  }
+  .target >div{
+    display:none;
+  }
+  .target >div:target{
+  display:block;  
+    }
+  .map-responsive{
+      overflow:hidden;
+      padding-bottom:56.25%;
+      position:relative;
+      height:0;
+  }
+  .map-responsive iframe{
+      left:0;
+      top:0;
+      height:100%;
+      width:100%;
+      position:absolute;
+  }
